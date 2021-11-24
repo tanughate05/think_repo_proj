@@ -1,2 +1,2 @@
 # think_repo_proj
-there this repo
+there this is repo
